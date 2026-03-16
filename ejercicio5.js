@@ -1,3 +1,4 @@
+function ejercicio5() {
 function parsearUrl(url) {
 
       const urlStr = new URL(url);
@@ -11,3 +12,5 @@ function parsearUrl(url) {
 
 
 console.log(parsearUrl('http://www.ort.edu.ar:8080/alumnos/index.htm?curso=2022&mes=mayo'));
+}
+export default ejercicio5;
