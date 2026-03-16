@@ -7,5 +7,7 @@
 //import ejercicio5 from './ejercicio5.js';
 //ejercicio5();
 
+
+//EJ 7
 //import countryToCurrency from "country-to-currency"; 
 //console.log(countryToCurrency["AR"]);
